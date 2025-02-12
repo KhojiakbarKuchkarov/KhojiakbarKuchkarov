@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KhojiakbarKuchkarov
-- 👀 I’m interested in Behavioral Economics and data analytics
+- 👀 I’m interested in Behavioral Economics and Data Analytics
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: INFJ
